@@ -1,0 +1,25 @@
+h3 {
+    text-align: center;
+    color: red;
+    margin: 50px 0 50px 0;
+}
+
+#kontejner {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 50px 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+img {
+    width: 100%;
+}
+
+h4 {
+    color: #abd6f0;
+}
+
+p {
+    text-align: justify;
+}
